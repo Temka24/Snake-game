@@ -1,0 +1,16 @@
+#gameContainer{
+    text-align: center;
+}
+#canva{
+    border: 3px solid black;
+}
+#score{
+    font-family: "Permanent Marker", cursive;
+    font-size: 90px;
+}
+#resetBtn{
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+    border: 3px solid;
+    border-radius: 10px;
+}
