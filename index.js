@@ -141,7 +141,7 @@ function displayOver(){
     ctx.fillStyle = 'white';
     ctx.font = '30px MV Boli';
     ctx.textAlign = 'center';
-    ctx.fillText('Temka bro score : ' + score, 250, 250)
+    ctx.fillText('Bro Your score : ' + score, 250, 250)
     running = false;
 
 };
